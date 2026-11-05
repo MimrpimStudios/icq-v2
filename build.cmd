@@ -1,1 +1,2 @@
-python -m pyinstaller --onedir -n ICQ main.py
+"./venv/Scripts/activate.bat"
+python -m PyInstaller --onedir -n ICQ main.py
