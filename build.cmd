@@ -1,0 +1,1 @@
+python -m pyinstaller --onedir -n ICQ main.py
